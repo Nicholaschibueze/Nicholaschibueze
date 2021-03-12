@@ -1,11 +1,10 @@
-![images (1)](https://user-images.githubusercontent.com/75815637/110988090-5f194700-8370-11eb-9d61-9677ad76d440.png)
 
 
-### Hi there 👋
+
+### Hi there 👋 I'M Nicholas Chibueze![download](https://user-images.githubusercontent.com/75815637/110988372-bd462a00-8370-11eb-96da-29d779fc9d71.jpg)
+
 
 Here are some idea to get you started:
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...PMT.ng
 - 🌱 I’m currently learning ...JAVASCRIPT
