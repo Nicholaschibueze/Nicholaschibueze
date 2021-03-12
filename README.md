@@ -1,7 +1,9 @@
 
 
 
-### Hi there 👋 I'M Nicholas Chibueze![download](https://user-images.githubusercontent.com/75815637/110988372-bd462a00-8370-11eb-96da-29d779fc9d71.jpg)
+### Hi there 👋 I'M Nicholas Chibueze
+![images](https://user-images.githubusercontent.com/75815637/110988658-1d3cd080-8371-11eb-92b2-e5e803df035b.jpg)
+
 
 
 Here are some idea to get you started:
