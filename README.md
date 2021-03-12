@@ -1,5 +1,5 @@
 
-![imag](https://camo.githubusercontent.com/1292cfe82d8911498ca5d476025452c211f16372b6dc7d7fc382390439298999/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f3934333131323137382f313538303034383834392f36303078323030)
+![imag](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463)
 ### Hi there 👋 I'M Nicholas Chibueze
 
 
