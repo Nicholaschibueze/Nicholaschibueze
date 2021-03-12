@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/nicholas-chibueze-michael-05b235206)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I Share the same Birthday Month with My Mentor
-- ![images](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kindpng.com%2Fpicc%2Fm%2F376-3767112_programming-language-transparent-image-all-programming-language-logo.png&imgrefurl=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FhhToiih_programming-language-transparent-image-all-programming-language-logo%2F&tbnid=pvi0FzfAVXRxWM&vet=12ahUKEwjxz-7guavvAhUGTBoKHaffBaAQMygXegUIARDXAQ..i&docid=K52pmYmCvVG31M&w=860&h=549&q=programming%20svg&hl=en&ved=2ahUKEwjxz-7guavvAhUGTBoKHaffBaAQMygXegUIARDXAQ)
-
+- ![My Pic](https://i1.wp.com/screenshot.ru/upload/images/2014/01/07/rQJ9kh8.png)
