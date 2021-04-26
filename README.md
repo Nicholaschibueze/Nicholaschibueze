@@ -1,5 +1,6 @@
 
-https://user-images.githubusercontent.com/75815637/116062283-aa1abf80-a67b-11eb-9870-1e02114c1c8c.mp4
+ ![My Pic](https://i1.wp.com/screenshot.ru/upload/images/2014/01/07/rQJ9kh8.png)
+
 
 ### Hi there 👋 I'M Nicholas Chibueze
 
