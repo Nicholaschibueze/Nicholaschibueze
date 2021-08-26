@@ -1,5 +1,5 @@
 
- ![My Pic](https://i1.wp.com/screenshot.ru/upload/images/2014/01/07/rQJ9kh8.png)
+ ![My Pic](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif)
 
 
 ### Hi there 👋 I'M Nicholas Chibueze
