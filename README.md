@@ -17,9 +17,7 @@ Here are some idea to get you started:
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I Share the same Birthday Month with My Mentor
 
-===>
-
-
+==>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholaschibueze &theme=radical)
 - 
 
