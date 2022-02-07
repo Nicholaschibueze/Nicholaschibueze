@@ -1,8 +1,6 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholaschibueze&theme=radical)
-
-<!--  ![My Pic](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif)
- -->
+![My Pic](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif)
+ 
 
 ### Hi there 👋 I'M Nicholas Chibueze
 
@@ -18,5 +16,7 @@ Here are some idea to get you started:
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/nicholas-chibueze-michael-05b235206)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I Share the same Birthday Month with My Mentor
-- 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholaschibueze&theme=radical)
+
 
