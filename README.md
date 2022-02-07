@@ -1,5 +1,5 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholaschibueze &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholaschibueze&theme=radical)
 
 <!--  ![My Pic](https://raw.githubusercontent.com/blueedgetechno/blueedgetechno/master/img/profile.gif)
  -->
