@@ -20,3 +20,8 @@ Here are some idea to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nicholaschibueze&theme=radical)
 
 
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/snowwhite-boss"><img src="https://github-profile-trophy.vercel.app/?username=Nicholaschibueze&margin-w=5&theme=radical" alt="snowwhite-boss" /></a> </p>
+
+
+
