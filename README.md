@@ -16,6 +16,13 @@ Here are some idea to get you started:
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/nicholas-chibueze-michael-05b235206)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I Share the same Birthday Month with My Mentor
+
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+	
+  <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicholaschibueze&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
+
 - 
 - <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholaschibueze&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="snowwhite-boss" align = "center"/>
