@@ -33,10 +33,7 @@ Here are some idea to get you started:
 
 
 
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nicholaschibueze&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
-<br>
 
 
  <summary><b>🏆 Github Achievements</b></summary>
